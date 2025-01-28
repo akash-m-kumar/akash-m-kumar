@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects that i find intrests in<br>👯 I’m looking to collaborate on full-stack projects<br>🌱 I’m currently learning Next.JS, React.JS, C# ,ASP.NET Core 8.0, Golang , Python <br>⚡ Fun fact i sleep well if i have caffeine, i know its weird for me too<br>🧑‍💻 My aim is to learn how to write code that is easily readable and understandable, while also being efficient <br>
+🔭 I’m currently working on projects that i find intrests in<br>👯 I’m looking to collaborate on full-stack projects<br>🌱 I’m currently learning Next.JS, React.JS, C# ,ASP.NET Core 8.0, Golang , Python <br>⚡ Fun fact i sleep well if i have caffeine, i know its weird for me too<br>
 
 
 ## 🌐 Socials:
